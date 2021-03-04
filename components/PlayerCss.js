@@ -5,7 +5,7 @@ const PlayerCSS = () => {
     <>
       <h1>
         <a href="http://uln.news/" target="_blank">
-          Хятадын цагаан хэрэм хэр урт вэ ?
+          Хятадын цагаан хэрэм хэр урт гэж бодож байна ?
         </a>
       </h1>
       <div data-vjs-player>

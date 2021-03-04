@@ -3,7 +3,11 @@ import "videojs-youtube";
 const PlayerCSS = () => {
   return (
     <>
-      <h1>Хятадын цагаан хэрэм хэр урт вэ ?</h1>
+      <h1>
+        <a href="http://uln.news/" target="_blank">
+          Хятадын цагаан хэрэм хэр урт вэ ?
+        </a>
+      </h1>
       <div data-vjs-player>
         <video
           id="my-video"
